@@ -1,0 +1,90 @@
+*{
+    text-align: center;
+}
+.color-title[id="red"]{
+
+    color: red;
+    background-color: #FFB38E;
+}
+.color-title[id="blue"]{
+    
+    color: blue;
+    background-color: #FFB38E
+}
+
+.color-title[id="orange"]{
+    
+    color: orange;
+    background-color: #FFB38E
+}
+
+.color-title[id="green"]{
+    
+    color: green;
+    background-color: #FFB38E
+}
+
+.color-title[id="yellow"]{
+    
+    color: yellow;
+    background-color: #FFB38E
+}
+
+.color-title[id="brown"]{
+    
+    color: brown;
+    background-color: #FFB38E
+}
+
+.color-title[id="pink"]{
+    
+    color: pink;
+    background-color: #FFB38E
+}
+
+.color-title[id="purple"]{
+    
+    color: purple;
+    background-color: #FFB38E
+}
+
+.color-title[id="grey"]{
+    
+    color: grey;
+    background-color: #FFB38E
+}
+.color-title{
+    font-weight: normal;
+    background-color: #FFB38E
+}
+.fruit-title{
+    font-weight: normal;
+    font-size: 20px;
+    font-style: oblique;
+    color: blueviolet;
+}
+.veggie-title{
+    font-weight: normal;
+    color: rgb(255, 0, 0);
+}
+.shape-title{
+    font-weight: normal;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    color: white;
+    background-color: #E178C5;
+    font-style: oblique;
+}
+body{
+    background-color: #FFFDCB;
+}
+a{
+    color: black;
+    background-color: #FFB38E;
+    font-style: italic;
+}
